@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__test_playwitharrays.o
+[PROJECT FILES]
+C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\default.gpr
+20181016173656
+[BOUND OBJECT FILES]
+C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\obj\playwitharrays.o
+C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\obj\test_assertions.o
+C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\obj\test_playwitharrays.o
+[GENERATED SOURCE FILES]
+b__test_playwitharrays.ads
+b__test_playwitharrays.adb
+b__test_playwitharrays.ali
+[RESULTING OPTIONS]
+-LC:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\obj\
+-LC:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\obj\
+-LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

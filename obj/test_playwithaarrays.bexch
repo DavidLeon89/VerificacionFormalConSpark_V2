@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__test_playwithaarrays.o
+[PROJECT FILES]
+C:\Users\Arkhen\Desktop\SPARK_Lab_03\SPARK_Lab_03\default.gpr
+20181016171710
+[BOUND OBJECT FILES]
+C:\Users\Arkhen\Desktop\SPARK_Lab_03\SPARK_Lab_03\obj\playwitharrays.o
+C:\Users\Arkhen\Desktop\SPARK_Lab_03\SPARK_Lab_03\obj\test_assertions.o
+C:\Users\Arkhen\Desktop\SPARK_Lab_03\SPARK_Lab_03\obj\test_playwithaarrays.o
+[GENERATED SOURCE FILES]
+b__test_playwithaarrays.ads
+b__test_playwithaarrays.adb
+b__test_playwithaarrays.ali
+[RESULTING OPTIONS]
+-LC:\Users\Arkhen\Desktop\SPARK_Lab_03\SPARK_Lab_03\obj\
+-LC:\Users\Arkhen\Desktop\SPARK_Lab_03\SPARK_Lab_03\obj\
+-LC:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2018/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

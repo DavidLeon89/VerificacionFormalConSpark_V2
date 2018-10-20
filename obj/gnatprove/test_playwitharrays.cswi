@@ -1,0 +1,12 @@
+20181018175014
+-c
+-x
+ada
+-gnatA
+-g
+-gnato
+-fstack-check
+-gnata
+-gnat12
+-gnatc
+-gnates=C:\Users\Arkhen\Documents\GitHub\playwitharrysV3\obj\gnatprove\51761c36.tmp

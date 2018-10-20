@@ -1,0 +1,121 @@
+V "GNAT Lib v2018"
+M P W=b
+A -x
+A ada
+A -gnatA
+A -g
+A -gnato
+A -fstack-check
+A -gnata
+A -gnat12
+A -gnatc
+P GP FX
+
+RN
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_IO
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+RV SPARK_05
+
+U test_playwitharrays%b	test_playwitharrays.adb	95fdaf92 OO SU IL
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W playwitharrays%s	playwitharrays.adb	playwitharrays.ali
+Z system%s		system.ads		system.ali
+W test_assertions%s	test_assertions.adb	test_assertions.ali
+
+D ada.ads		20180524051736 76789da1 ada%s
+D a-ioexce.ads		20180524051736 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20180524051736 119b8fb3 ada.streams%s
+D a-textio.ads		20180524051738 881db35a ada.text_io%s
+D interfac.ads		20180524051736 5ab55268 interfaces%s
+D i-cstrea.ads		20180524051736 e53d8b8e interfaces.c_streams%s
+D playwitharrays.ads	20181018173330 4417d8c2 playwitharrays%s
+D system.ads		20180524051738 32a08138 system%s
+D s-crtl.ads		20180524051736 0ebbdb71 system.crtl%s
+D s-ficobl.ads		20180524051738 078245e4 system.file_control_block%s
+D s-parame.ads		20180524051738 48ec542b system.parameters%s
+D s-wchcon.ads		20180524051738 1b7d22d2 system.wch_con%s
+D test_assertions.ads	20180930163718 1487d8c5 test_assertions%s
+D test_playwitharrays.adb  20181018174948 4d701ccf test_playwitharrays%b
+X 1 ada.ads
+16K9*Ada 20e8 14|4r6 4r27
+X 4 a-textio.ads
+49K13*Text_IO 471e16 14|4w10 4r31
+263U14*Put_Line 14|20s10 22s10 35s10 37s10 50s10 52s10 63s10 65s10 77s10
+. 79s10 92s10 94s10 107s10 109s10 122s10 124s10 137s10 139s10 144s4
+X 7 playwitharrays.ads
+1K9*playWithArrays 114e19 14|6w6 6r31
+2A9*T_Table(integer)<integer> 14|13r16 14r16 27r16 28r16 42r16 43r16 56r16
+. 57r16 70r16 71r16 84r16 85r16 100r16 101r16 115r16 116r16 129r16 130r16
+4V13*play{2A9} 14|17s20 32s20 47s20
+36V13*playInverse{2A9} 14|60s20 74s20 89s20 119s20 134s20
+68V13*playArrayResultInverse{2A9} 14|103s20
+X 13 test_assertions.ads
+3K9*Test_Assertions 18e20 14|5w6 5r27
+4X4*Test_Assertion_Error 14|19r12 34r12 49r12 62r12 76r12 91r12 106r12 121r12
+. 136r12
+12U14*Assert_True 14|17s7 32s7 47s7 60s7 74s7 89s7 103s7 119s7 134s7
+X 14 test_playwitharrays.adb
+10U11*test_playwitharrays 10b11 154l5 154t24
+12U14 Test_play 23l8 23t17 145s4
+13a7 Table1{7|2A9} 17r26
+14a7 Table2{7|2A9} 17r34
+15a7 Msg{string} 17r61 20r20 22r20
+26U14 Test_play2 38l8 38t18 146s4
+27a7 Table1{7|2A9} 32r26
+28a7 Table2{7|2A9} 32r34
+29a7 Msg{string} 32r59 35r20 37r20
+41U14 Test_play3 53l8 53t18 147s4
+42a7 Table1{7|2A9} 47r26
+43a7 Table2{7|2A9} 47r34
+44a7 Msg{string} 47r57 50r20 52r20
+55U14 Test_playInverse 66l8 66t24 148s4
+56a7 Table1{7|2A9} 60r33
+57a7 Table2{7|2A9} 60r41
+58a7 Msg{string} 60r64 63r20 65r20
+69U15 Test_playInverse2 80l8 80t25 149s4
+70a7 Table1{7|2A9} 74r33
+71a7 Table2{7|2A9} 74r41
+72a7 Msg{string} 74r67 77r20 79r20
+83U14 Test_playInverse3 95l8 95t25 150s4
+84a7 Table1{7|2A9} 89r33
+85a7 Table2{7|2A9} 89r41
+86a7 Msg{string} 89r64 92r20 94r20
+98U14 Test_playArrayResultInverse 110l8 110t35 151s4
+99a7 Msg{string} 103r73 107r20 109r20
+100a7 Table1{7|2A9} 103r44
+101a7 Table2{7|2A9} 103r52
+114U14 Test_playArrayResultInverse2 125l8 125t36 152s4
+115a7 Table1{7|2A9} 119r33
+116a7 Table2{7|2A9} 119r41
+117a7 Msg{string} 119r67 122r20 124r20
+128U14 Test_playArrayResultInverse3 140l8 140t36 153s4
+129a7 Table1{7|2A9} 134r33
+130a7 Table2{7|2A9} 134r41
+131a7 Msg{string} 134r64 137r20 139r20
+
+QQ SPARKVERSION 2018 (20180523)
+GG EK_DIRECT_CALLS test_playwitharrays__test_play 0
+GG EK_GLOBALS test_playwitharrays__test_play local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__play local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_play2 0
+GG EK_GLOBALS test_playwitharrays__test_play2 local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__play local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_play3 0
+GG EK_GLOBALS test_playwitharrays__test_play3 local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__play local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_playinverse 0
+GG EK_GLOBALS test_playwitharrays__test_playinverse local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__playinverse local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_playinverse2 0
+GG EK_GLOBALS test_playwitharrays__test_playinverse2 local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__playinverse local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_playinverse3 0
+GG EK_GLOBALS test_playwitharrays__test_playinverse3 local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__playinverse local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_playarrayresultinverse 0
+GG EK_GLOBALS test_playwitharrays__test_playarrayresultinverse local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__playarrayresultinverse local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_playarrayresultinverse2 0
+GG EK_GLOBALS test_playwitharrays__test_playarrayresultinverse2 local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__playinverse local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays__test_playarrayresultinverse3 0
+GG EK_GLOBALS test_playwitharrays__test_playarrayresultinverse3 local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 3 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__playinverse local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS test_playwitharrays 0
+GG EK_GLOBALS test_playwitharrays local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 5 ada__text_io__put_line__2 test_assertions__assert_true__2 playwitharrays__play playwitharrays__playinverse playwitharrays__playarrayresultinverse local_var 0 FALSE TRUE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_END_MARKER

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\default.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\src\playwitharrays.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\src\playwitharrays.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark_V2\src\playwitharrays.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\default.gpr</vfs_file>
+    <file_marker column=" 13" line=" 50">
+      <vfs_project >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\default.gpr</vfs_project>
+      <vfs_file >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\src\test_assertions.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 55">
+      <vfs_project >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\default.gpr</vfs_project>
+      <vfs_file >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\src\test_playwitharrays.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 7">
+      <vfs_project >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\default.gpr</vfs_project>
+      <vfs_file >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\src\playwitharrays.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 55" line=" 1">
+      <vfs_project >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\default.gpr</vfs_project>
+      <vfs_file >C:\Users\Arkhen\Documents\GitHub\VerificacionFormalConSpark\src\test_assertions.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
