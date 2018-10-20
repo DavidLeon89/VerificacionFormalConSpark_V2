@@ -37,22 +37,35 @@ package body playWithArrays with SPARK_Mode => On is
       Temp : Natural := Table'First;
    begin
       res := Table_2;
-      while Temp <= Table'Last loop
-         --controlamos la salida del bucle
-         pragma Loop_Variant (Increases => Temp + 1);
-         --le idicamos que los pares impares seran modificados.
-         --pragma Loop_Variant
-           --(for all Temp in res'Range =>
-             -- (if Temp rem 2 /= 0 then res(T_Table)));
+      if (Table'Length - 1) = (Table_2'Length - 1) and Table'First = Table_2'First and
+      res'First = 0  and Table'Last = Table_2'Last then
+         if Table'First = Table'Last then
+            res(0) := Table(0);
+            return res;
+         else
+            while Temp < Table'Last loop
+               if Temp = 2147483647 then
+                  return res;
+               end if;
+               --controlamos la salida del bucle
+               pragma Loop_Variant (Increases => Temp + 1);
+               --le idicamos que los pares no seran modificados.
+               pragma Loop_Invariant (Temp <= res'Last);
 
+               pragma Loop_Invariant
+                 (if Temp rem 2 = 0 then res(Temp) <= res(Temp));
 
-         if Temp rem 2 /= 0 then
-            res(Temp) := Table(Temp);
+               if Temp rem 2 /= 0 then
+                  res(Temp) := Table(Temp);
+               end if;
+               if Temp < 2147483647 then
+                  Temp := Temp + 1;
+               end if;
+            end loop;
          end if;
-         Temp := Temp + 1;
-      end loop;
-      return res;
 
+      end if;
+      return res;
    end playInverse;
 
 

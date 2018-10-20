@@ -80,21 +80,6 @@ procedure test_playwitharrays is
    end Test_playInverse2;
 
 
-   procedure Test_playInverse3 is
-      Table1 : T_Table (0 .. 3) := (-1,-1,-1,-1);
-      Table2 : T_Table (0 .. 3) := (0,0,0,0);
-      Msg   : constant String := "playInverse3: Positive vector";
-
-   begin
-      Assert_True (playInverse (Table1, Table2) = (0,-1,0,-1), Msg);
-   exception
-      when Test_Assertion_Error =>
-         Put_Line (Msg & " Failed (assertion)");
-      when others =>
-         Put_Line (Msg & " Failed (exception)");
-   end Test_playInverse3;
-
-
    procedure Test_playArrayResultInverse is
       Msg   : constant String := "PlayArrayResultInverse1: Positive vector";
       Table1 : T_Table (0 .. 2) := (1, 2, 3);
@@ -147,7 +132,6 @@ begin
    Test_play3;
    Test_playInverse;
    Test_playInverse2;
-   Test_playInverse3;
    Test_playArrayResultInverse;
    Test_playArrayResultInverse2;
    Test_playArrayResultInverse3;

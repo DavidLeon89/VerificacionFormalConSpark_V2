@@ -18,7 +18,7 @@ RV NO_SECONDARY_STACK
 RV NO_IMPLEMENTATION_PRAGMAS
 RV SPARK_05
 
-U test_playwitharrays%b	test_playwitharrays.adb	86954c89 NE OO SU IL
+U test_playwitharrays%b	test_playwitharrays.adb	76eaeda0 NE OO SU IL
 W ada%s			ada.ads			ada.ali
 Z ada.tags%s		a-tags.adb		a-tags.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
@@ -50,61 +50,56 @@ D s-traent.ads		20180524051736 005bf670 system.traceback_entries%s
 D s-unstyp.ads		20180524051736 34867c83 system.unsigned_types%s
 D s-wchcon.ads		20180524051738 1b7d22d2 system.wch_con%s
 D test_assertions.ads	20180930163718 1487d8c5 test_assertions%s
-D test_playwitharrays.adb  20181020175226 5e18ffd4 test_playwitharrays%b
+D test_playwitharrays.adb  20181020210622 ae675efd test_playwitharrays%b
 X 1 ada.ads
 16K9*Ada 20e8 25|4r6 4r27
 X 6 a-textio.ads
 49K13*Text_IO 471e16 25|4w10 4r31
 263U14*Put_Line 25|20s10 22s10 35s10 37s10 50s10 52s10 63s10 65s10 77s10
-. 79s10 92s10 94s10 107s10 109s10 122s10 124s10 137s10 139s10 144s4
+. 79s10 92s10 94s10 107s10 109s10 122s10 124s10 129s4
 X 10 playwitharrays.ads
 1K9*playWithArrays 114e19 25|6w6 6r31
 2A9*T_Table(integer)<integer> 25|13r16 14r16 27r16 28r16 42r16 43r16 56r16
-. 57r16 70r16 71r16 84r16 85r16 100r16 101r16 115r16 116r16 129r16 130r16
+. 57r16 70r16 71r16 85r16 86r16 100r16 101r16 114r16 115r16
 4V13*play{2A9} 25|17s20 32s20 47s20
-36V13*playInverse{2A9} 25|60s20 74s20 89s20
-68V13*playArrayResultInverse{2A9} 25|103s20 119s20 134s20
+36V13*playInverse{2A9} 25|60s20 74s20
+68V13*playArrayResultInverse{2A9} 25|88s20 104s20 119s20
 X 24 test_assertions.ads
 3K9*Test_Assertions 18e20 25|5w6 5r27
 4X4*Test_Assertion_Error 25|19r12 34r12 49r12 62r12 76r12 91r12 106r12 121r12
-. 136r12
-12U14*Assert_True 25|17s7 32s7 47s7 60s7 74s7 89s7 103s7 119s7 134s7
+12U14*Assert_True 25|17s7 32s7 47s7 60s7 74s7 88s7 104s7 119s7
 X 25 test_playwitharrays.adb
-10U11*test_playwitharrays 10b11 154l5 154t24
-12U14 Test_play 12b14 23l8 23t17 145s4
+10U11*test_playwitharrays 10b11 138l5 138t24
+12U14 Test_play 12b14 23l8 23t17 130s4
 13a7 Table1{10|2A9} 17r26
 14a7 Table2{10|2A9} 17r34
 15a7 Msg{string} 17r61 20r20 22r20
-26U14 Test_play2 26b14 38l8 38t18 146s4
+26U14 Test_play2 26b14 38l8 38t18 131s4
 27a7 Table1{10|2A9} 32r26
 28a7 Table2{10|2A9} 32r34
 29a7 Msg{string} 32r59 35r20 37r20
-41U14 Test_play3 41b14 53l8 53t18 147s4
+41U14 Test_play3 41b14 53l8 53t18 132s4
 42a7 Table1{10|2A9} 47r26
 43a7 Table2{10|2A9} 47r34
 44a7 Msg{string} 47r57 50r20 52r20
-55U14 Test_playInverse 55b14 66l8 66t24 148s4
+55U14 Test_playInverse 55b14 66l8 66t24 133s4
 56a7 Table1{10|2A9} 60r33
 57a7 Table2{10|2A9} 60r41
 58a7 Msg{string} 60r64 63r20 65r20
-69U15 Test_playInverse2 69b15 80l8 80t25 149s4
+69U15 Test_playInverse2 69b15 80l8 80t25 134s4
 70a7 Table1{10|2A9} 74r33
 71a7 Table2{10|2A9} 74r41
 72a7 Msg{string} 74r67 77r20 79r20
-83U14 Test_playInverse3 83b14 95l8 95t25 150s4
-84a7 Table1{10|2A9} 89r33
-85a7 Table2{10|2A9} 89r41
-86a7 Msg{string} 89r64 92r20 94r20
-98U14 Test_playArrayResultInverse 98b14 110l8 110t35 151s4
-99a7 Msg{string} 103r73 107r20 109r20
-100a7 Table1{10|2A9} 103r44
-101a7 Table2{10|2A9} 103r52
-114U14 Test_playArrayResultInverse2 114b14 125l8 125t36 152s4
-115a7 Table1{10|2A9} 119r44
-116a7 Table2{10|2A9} 119r52
-117a7 Msg{string} 119r77 122r20 124r20
-128U14 Test_playArrayResultInverse3 128b14 140l8 140t36 153s4
-129a7 Table1{10|2A9} 134r44
-130a7 Table2{10|2A9} 134r52
-131a7 Msg{string} 134r75 137r20 139r20
+83U14 Test_playArrayResultInverse 83b14 95l8 95t35 135s4
+84a7 Msg{string} 88r73 92r20 94r20
+85a7 Table1{10|2A9} 88r44
+86a7 Table2{10|2A9} 88r52
+99U14 Test_playArrayResultInverse2 99b14 110l8 110t36 136s4
+100a7 Table1{10|2A9} 104r44
+101a7 Table2{10|2A9} 104r52
+102a7 Msg{string} 104r77 107r20 109r20
+113U14 Test_playArrayResultInverse3 113b14 125l8 125t36 137s4
+114a7 Table1{10|2A9} 119r44
+115a7 Table2{10|2A9} 119r52
+116a7 Msg{string} 119r75 122r20 124r20
 

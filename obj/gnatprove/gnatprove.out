@@ -6,26 +6,19 @@ SPARK Analysis results        Total        Flow   Interval   CodePeer      Prove
 ---------------------------------------------------------------------------------------------------------
 Data Dependencies                 .           .          .          .            .           .          .
 Flow Dependencies                 .           .          .          .            .           .          .
-Initialization                   16          16          .          .            .           .          .
+Initialization                   23          23          .          .            .           .          .
 Non-Aliasing                      .           .          .          .            .           .          .
-Run-time Checks                  48           .          .          .    48 (CVC4)           .          .
-Assertions                        5           .          .          .     4 (CVC4)           .          1
+Run-time Checks                  54           .          .          .    54 (CVC4)           .          .
+Assertions                        9           .          .          .     9 (CVC4)           .          .
 Functional Contracts              4           .          .          .     4 (CVC4)           .          .
 LSP Verification                  .           .          .          .            .           .          .
 ---------------------------------------------------------------------------------------------------------
-Total                            73    16 (22%)          .          .     56 (77%)           .     1 (1%)
+Total                            90    23 (26%)          .          .     67 (74%)           .          .
 
 
-Analyzed 3 units
+Analyzed 1 unit
 in unit playwitharrays, 4 subprograms and packages out of 4 analyzed
   playWithArrays at playwitharrays.ads:1 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (0 checks)
   playWithArrays.play at playwitharrays.ads:4 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (15 checks)
   playWithArrays.playArrayResultInverse at playwitharrays.ads:68 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (26 checks)
-  playWithArrays.playInverse at playwitharrays.ads:36 flow analyzed (0 errors, 0 checks and 0 warnings) and not proved, 15 checks out of 16 proved
-in unit test_assertions, 0 subprograms and packages out of 4 analyzed
-  Test_Assertions.Assert_False at test_assertions.ads:9 skipped
-  Test_Assertions.Assert_False at test_assertions.ads:15 skipped
-  Test_Assertions.Assert_True at test_assertions.ads:6 skipped
-  Test_Assertions.Assert_True at test_assertions.ads:12 skipped
-in unit test_playwitharrays, 0 subprograms and packages out of 1 analyzed
-  test_playwitharrays at test_playwitharrays.adb:10 skipped
+  playWithArrays.playInverse at playwitharrays.ads:36 flow analyzed (0 errors, 0 checks and 0 warnings) and proved (26 checks)

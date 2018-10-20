@@ -44,6 +44,366 @@
   "flow": [
     {
       "file": "playwitharrays.adb",
+      "line": 79,
+      "col": 20,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__38.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 79,
+      "col": 20,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__39.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 82,
+      "col": 7,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__40.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 43,
+      "col": 20,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__102.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 44,
+      "col": 13,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__103.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 47,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__104.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 48,
+      "col": 19,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__105.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 51,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__106.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 53,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__107.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 55,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__108.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 55,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__109.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 58,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__110.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 59,
+      "col": 29,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__111.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 59,
+      "col": 29,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__112.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 61,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__113.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 62,
+      "col": 24,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__114.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 46,
+      "col": 37,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__115.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 68,
+      "col": 7,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": {
+      },
+      "tracefile": "playwitharrays__flow__116.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "playwitharrays.adb",
       "line": 12,
       "col": 20,
       "rule": "UNINITIALIZED",
@@ -59,7 +419,7 @@
       },
       "check_tree": {
       },
-      "tracefile": "playwitharrays__flow__38.trace",
+      "tracefile": "playwitharrays__flow__155.trace",
       "how_proved": "flow"
     },
     {
@@ -79,7 +439,7 @@
       },
       "check_tree": {
       },
-      "tracefile": "playwitharrays__flow__39.trace",
+      "tracefile": "playwitharrays__flow__156.trace",
       "how_proved": "flow"
     },
     {
@@ -99,7 +459,7 @@
       },
       "check_tree": {
       },
-      "tracefile": "playwitharrays__flow__40.trace",
+      "tracefile": "playwitharrays__flow__157.trace",
       "how_proved": "flow"
     },
     {
@@ -119,7 +479,7 @@
       },
       "check_tree": {
       },
-      "tracefile": "playwitharrays__flow__41.trace",
+      "tracefile": "playwitharrays__flow__158.trace",
       "how_proved": "flow"
     },
     {
@@ -139,646 +499,11 @@
       },
       "check_tree": {
       },
-      "tracefile": "playwitharrays__flow__42.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 64,
-      "col": 20,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__97.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 64,
-      "col": 20,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__98.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 67,
-      "col": 7,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__99.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 41,
-      "col": 10,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__137.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 44,
-      "col": 10,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__138.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 45,
-      "col": 23,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__139.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 45,
-      "col": 23,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__140.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 48,
-      "col": 10,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__141.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 49,
-      "col": 21,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__142.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 40,
-      "col": 32,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__143.trace",
-      "how_proved": "flow"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 52,
-      "col": 7,
-      "rule": "UNINITIALIZED",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": {
-      },
-      "tracefile": "playwitharrays__flow__144.trace",
+      "tracefile": "playwitharrays__flow__159.trace",
       "how_proved": "flow"
     }
   ],
   "proof": [
-    {
-      "file": "playwitharrays.adb",
-      "line": 45,
-      "col": 32,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 45,
-      "check_col": 32,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 45,
-      "col": 17,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 14,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 45,
-      "check_col": 17,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 46,
-      "col": 8,
-      "rule": "VC_POSTCONDITION",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 186,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 181,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 46,
-      "check_col": 8,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 3,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 102,
-      "col": 62,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 102,
-      "check_col": 62,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 41,
-      "col": 10,
-      "rule": "VC_LOOP_VARIANT",
-      "severity": "medium",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Unknown (other)",
-              "steps": 310,
-              "time": 5.00000000000000E-02
-            },
-            "CVC4_CE": {
-              "result": "Unknown (other)",
-              "steps": 314,
-              "time": 0
-            }
-          },
-          "transformations": {
-            "split_disj": [
-              {
-                "proof_attempts": {
-                },
-                "transformations": {
-                }
-              },
-              {
-                "proof_attempts": {
-                  "CVC4_CE": {
-                    "result": "Unknown (other)",
-                    "steps": 260,
-                    "time": 5.00000000000000E-02
-                  }
-                },
-                "transformations": {
-                }
-              },
-              {
-                "proof_attempts": {
-                },
-                "transformations": {
-                }
-              },
-              {
-                "proof_attempts": {
-                },
-                "transformations": {
-                }
-              }
-            ]
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 41,
-      "check_col": 10,
-      "tracefile": "playwitharrays.adb_41_10_loop_variant.trace",
-      "cntexmp": {
-        "playwitharrays.adb": {
-          "37": [
-            {
-              "name": "Temp",
-              "value": "0",
-              "kind": "variable"
-            }
-          ],
-          "39": [
-            {
-              "name": "res",
-              "value": "(2147483647 => 0, others => 2147483647)",
-              "kind": "variable"
-            }
-          ],
-          "40": [
-            {
-              "name": "Temp",
-              "value": "2147483647",
-              "kind": "variable"
-            },
-            {
-              "name": "res",
-              "value": "(others => 0)",
-              "kind": "variable"
-            }
-          ],
-          "41": [
-            {
-              "name": "Temp",
-              "value": "2147483647",
-              "kind": "variable"
-            }
-          ],
-          "45": [
-            {
-              "name": "res",
-              "value": "(others => 0)",
-              "kind": "variable"
-            }
-          ]
-        },
-        "playwitharrays.ads": {
-          "36": [
-            {
-              "name": "Table",
-              "value": "(2147483647 => 0, others => 2147483647)",
-              "kind": "variable"
-            },
-            {
-              "name": "Table'First",
-              "value": "0",
-              "kind": "variable"
-            },
-            {
-              "name": "Table'Last",
-              "value": "2147483647",
-              "kind": "variable"
-            },
-            {
-              "name": "Table_2",
-              "value": "(2147483647 => 0, others => 2147483647)",
-              "kind": "variable"
-            },
-            {
-              "name": "Table_2'First",
-              "value": "0",
-              "kind": "variable"
-            },
-            {
-              "name": "Table_2'Last",
-              "value": "2147483647",
-              "kind": "variable"
-            }
-          ]
-        }
-      },
-      "msg_id": 0,
-      "how_proved": "prover"
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 23,
-      "col": 37,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 14,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 23,
-      "check_col": 37,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
     {
       "file": "playwitharrays.ads",
       "line": 15,
@@ -800,7 +525,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
+              "time": 3.00000000000000E-02
             }
           },
           "transformations": {
@@ -811,7 +536,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 306,
-              "time": 0
+              "time": 6.00000000000000E-02
             }
           },
           "transformations": {
@@ -822,7 +547,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 302,
-              "time": 0
+              "time": 6.00000000000000E-02
             }
           },
           "transformations": {
@@ -837,826 +562,7 @@
         "CVC4": {
           "count": 3,
           "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 102,
-      "col": 87,
-      "rule": "VC_OVERFLOW_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 290,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 102,
-      "check_col": 87,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 23,
-      "col": 39,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 320,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 313,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 23,
-      "check_col": 39,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 106,
-      "col": 82,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 263,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 263,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 106,
-      "check_col": 82,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 17,
-      "col": 39,
-      "rule": "VC_LOOP_INVARIANT_PRESERV",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 17,
-      "check_col": 39,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 23,
-      "col": 28,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 23,
-      "check_col": 28,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 64,
-      "col": 36,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 14,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 64,
-      "check_col": 36,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 20,
-      "col": 21,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 20,
-      "check_col": 21,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 17,
-      "col": 39,
-      "rule": "VC_LOOP_INVARIANT_INIT",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 17,
-      "check_col": 39,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 39,
-      "col": 14,
-      "rule": "VC_LENGTH_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 39,
-      "check_col": 14,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 105,
-      "col": 30,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 105,
-      "check_col": 30,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 84,
-      "col": 53,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 84,
-      "check_col": 53,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 29,
-      "col": 41,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 328,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 321,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 29,
-      "check_col": 41,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 94,
-      "col": 84,
-      "rule": "VC_OVERFLOW_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 290,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 94,
-      "check_col": 84,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 29,
-      "col": 28,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 29,
-      "check_col": 28,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 60,
-      "col": 35,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 60,
-      "check_col": 35,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 53,
-      "col": 19,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 53,
-      "check_col": 19,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 94,
-      "col": 84,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 251,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 265,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 94,
-      "check_col": 84,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 88,
-      "col": 82,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 255,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 267,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 88,
-      "check_col": 82,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
+          "max_time": 5.99999986588955E-02
         }
       }
     },
@@ -1681,7 +587,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
+              "time": 3.00000000000000E-02
             }
           },
           "transformations": {
@@ -1696,1306 +602,7 @@
         "CVC4": {
           "count": 1,
           "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 59,
-      "col": 7,
-      "rule": "VC_RANGE_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 59,
-      "check_col": 7,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 99,
-      "col": 55,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 99,
-      "check_col": 55,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 60,
-      "col": 48,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 186,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 184,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 60,
-      "check_col": 48,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 6,
-      "col": 7,
-      "rule": "VC_RANGE_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 6,
-      "check_col": 7,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 6,
-      "col": 52,
-      "rule": "VC_LENGTH_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 60,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 6,
-      "check_col": 52,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 49,
-      "col": 29,
-      "rule": "VC_OVERFLOW_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 2.00000000000000E-02
-            }
-          },
-          "transformations": {
-            "split_disj": [
-              {
-                "proof_attempts": {
-                },
-                "transformations": {
-                }
-              },
-              {
-                "proof_attempts": {
-                },
-                "transformations": {
-                }
-              }
-            ]
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 49,
-      "check_col": 29,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 1.99999995529652E-02
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 64,
-      "col": 36,
-      "rule": "VC_OVERFLOW_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 22,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 64,
-      "check_col": 36,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 88,
-      "col": 82,
-      "rule": "VC_OVERFLOW_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 259,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 88,
-      "check_col": 82,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 39,
-      "col": 11,
-      "rule": "VC_LENGTH_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 124,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 39,
-      "check_col": 11,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 12,
-      "col": 17,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 12,
-      "check_col": 17,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 59,
-      "col": 52,
-      "rule": "VC_LENGTH_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 79,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 59,
-      "check_col": 52,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 44,
-      "col": 18,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 44,
-      "check_col": 18,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 88,
-      "col": 60,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 88,
-      "check_col": 60,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 63,
-      "col": 36,
-      "rule": "VC_LOOP_INVARIANT_PRESERV",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 63,
-      "check_col": 36,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 93,
-      "col": 28,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 93,
-      "check_col": 28,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 37,
-      "col": 30,
-      "rule": "VC_RANGE_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 37,
-      "check_col": 30,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 58,
-      "col": 24,
-      "rule": "VC_PRECONDITION",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 58,
-      "check_col": 24,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 6,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 54,
-      "col": 46,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 208,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 207,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 54,
-      "check_col": 46,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 63,
-      "col": 36,
-      "rule": "VC_LOOP_INVARIANT_INIT",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 63,
-      "check_col": 36,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 101,
-      "col": 32,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 101,
-      "check_col": 32,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 12,
-      "col": 29,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 12,
-      "check_col": 29,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.adb",
-      "line": 36,
-      "col": 7,
-      "rule": "VC_RANGE_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 36
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.adb",
-      "check_line": 36,
-      "check_col": 7,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 106,
-      "col": 82,
-      "rule": "VC_OVERFLOW_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 283,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 106,
-      "check_col": 82,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 87,
-      "col": 30,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 87,
-      "check_col": 30,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 28,
-      "col": 17,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 28,
-      "check_col": 17,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 106,
-      "col": 60,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 106,
-      "check_col": 60,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 22,
-      "col": 19,
-      "rule": "VC_DIVISION_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.play",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 4
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 22,
-      "check_col": 19,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 1,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
-        }
-      }
-    },
-    {
-      "file": "playwitharrays.ads",
-      "line": 102,
-      "col": 87,
-      "rule": "VC_INDEX_CHECK",
-      "severity": "info",
-      "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
-        "sloc": [
-          {
-            "file": "playwitharrays.ads",
-            "line": 68
-          }
-        ]
-      },
-      "check_tree": [
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 271,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 283,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        }
-      ],
-      "check_file": "playwitharrays.ads",
-      "check_line": 102,
-      "check_col": 87,
-      "how_proved": "prover",
-      "stats": {
-        "CVC4": {
-          "count": 2,
-          "max_steps": 1,
-          "max_time": 0.00000000000000E+00
+          "max_time": 2.99999993294477E-02
         }
       }
     },
@@ -3020,7 +627,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
+              "time": 5.00000000000000E-02
             }
           },
           "transformations": {
@@ -3031,7 +638,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
+              "time": 3.00000000000000E-02
             }
           },
           "transformations": {
@@ -3046,22 +653,73 @@
         "CVC4": {
           "count": 2,
           "max_steps": 1,
-          "max_time": 0.00000000000000E+00
+          "max_time": 5.00000007450581E-02
         }
       }
     },
     {
       "file": "playwitharrays.ads",
-      "line": 79,
-      "col": 8,
-      "rule": "VC_POSTCONDITION",
+      "line": 23,
+      "col": 39,
+      "rule": "VC_INDEX_CHECK",
       "severity": "info",
       "entity": {
-        "name": "playWithArrays.playArrayResultInverse",
+        "name": "playWithArrays.play",
         "sloc": [
           {
             "file": "playwitharrays.ads",
-            "line": 68
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 320,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 313,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 23,
+      "check_col": 39,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.99999986588955E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 53,
+      "col": 19,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
           }
         ]
       },
@@ -3071,29 +729,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 235,
-              "time": 0
-            }
-          },
-          "transformations": {
-          }
-        },
-        {
-          "proof_attempts": {
-            "CVC4": {
-              "result": "Valid",
-              "steps": 230,
-              "time": 0
+              "time": 5.00000000000000E-02
             }
           },
           "transformations": {
@@ -3101,14 +737,185 @@
         }
       ],
       "check_file": "playwitharrays.ads",
-      "check_line": 79,
-      "check_col": 8,
+      "check_line": 53,
+      "check_col": 19,
       "how_proved": "prover",
       "stats": {
         "CVC4": {
-          "count": 3,
+          "count": 1,
           "max_steps": 1,
-          "max_time": 0.00000000000000E+00
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 17,
+      "col": 39,
+      "rule": "VC_LOOP_INVARIANT_PRESERV",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 17,
+      "check_col": 39,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 60,
+      "col": 35,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 60,
+      "check_col": 35,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 20,
+      "col": 21,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 20,
+      "check_col": 21,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 39,
+      "col": 14,
+      "rule": "VC_LENGTH_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 39,
+      "check_col": 14,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 1.99999995529652E-02
         }
       }
     },
@@ -3133,7 +940,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
+              "time": 3.00000000000000E-02
             }
           },
           "transformations": {
@@ -3144,7 +951,7 @@
             "CVC4": {
               "result": "Valid",
               "steps": 5,
-              "time": 0
+              "time": 3.00000000000000E-02
             }
           },
           "transformations": {
@@ -3159,12 +966,2784 @@
         "CVC4": {
           "count": 2,
           "max_steps": 1,
-          "max_time": 0.00000000000000E+00
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 74,
+      "col": 7,
+      "rule": "VC_RANGE_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 74,
+      "check_col": 7,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 79,
+      "col": 36,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 22,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 79,
+      "check_col": 36,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 87,
+      "col": 30,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 87,
+      "check_col": 30,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 6,
+      "col": 7,
+      "rule": "VC_RANGE_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 6,
+      "check_col": 7,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 6,
+      "col": 52,
+      "rule": "VC_LENGTH_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 60,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 6,
+      "check_col": 52,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 1.99999995529652E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 62,
+      "col": 32,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 62,
+      "check_col": 32,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 46,
+      "col": 8,
+      "rule": "VC_POSTCONDITION",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 400,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 400,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 46,
+      "check_col": 8,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 3,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 53,
+      "col": 39,
+      "rule": "VC_LOOP_INVARIANT_INIT",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 14,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 53,
+      "check_col": 39,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 78,
+      "col": 36,
+      "rule": "VC_LOOP_INVARIANT_PRESERV",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 78,
+      "check_col": 36,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.99999986588955E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 12,
+      "col": 17,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 12,
+      "check_col": 17,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 106,
+      "col": 82,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 263,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 263,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 106,
+      "check_col": 82,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 43,
+      "col": 17,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 43,
+      "check_col": 17,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 102,
+      "col": 87,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 271,
+              "time": 9.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 283,
+              "time": 9.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 102,
+      "check_col": 87,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 9.00000035762787E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 28,
+      "col": 17,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 28,
+      "check_col": 17,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 56,
+      "col": 19,
+      "rule": "VC_LOOP_INVARIANT_PRESERV",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 56,
+      "check_col": 19,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 102,
+      "col": 87,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 290,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 102,
+      "check_col": 87,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 88,
+      "col": 82,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 259,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 88,
+      "check_col": 82,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 99,
+      "col": 55,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 99,
+      "check_col": 55,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 101,
+      "col": 32,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 101,
+      "check_col": 32,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 94,
+      "col": 84,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 251,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 265,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 94,
+      "check_col": 84,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 59,
+      "col": 38,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 14,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 59,
+      "check_col": 38,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 59,
+      "col": 23,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 59,
+      "check_col": 23,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 54,
+      "col": 46,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 454,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 447,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 54,
+      "check_col": 46,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 23,
+      "col": 37,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 14,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 23,
+      "check_col": 37,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 43,
+      "col": 29,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 43,
+      "check_col": 29,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 106,
+      "col": 82,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 283,
+              "time": 9.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 106,
+      "check_col": 82,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 9.00000035762787E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 60,
+      "col": 48,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 405,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 402,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 60,
+      "check_col": 48,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 23,
+      "col": 28,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 23,
+      "check_col": 28,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 105,
+      "col": 30,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 105,
+      "check_col": 30,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 17,
+      "col": 39,
+      "rule": "VC_LOOP_INVARIANT_INIT",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 17,
+      "check_col": 39,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 88,
+      "col": 82,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 255,
+              "time": 9.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 267,
+              "time": 9.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 88,
+      "check_col": 82,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 9.00000035762787E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 51,
+      "col": 55,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 51,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 51,
+      "check_col": 55,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 73,
+      "col": 24,
+      "rule": "VC_PRECONDITION",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 73,
+      "check_col": 24,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 6,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 84,
+      "col": 53,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 84,
+      "check_col": 53,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 29,
+      "col": 41,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 328,
+              "time": 8.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 321,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 29,
+      "check_col": 41,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 7.99999982118607E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 29,
+      "col": 28,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 29,
+      "check_col": 28,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 56,
+      "col": 27,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 56,
+      "check_col": 27,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 1.99999995529652E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 79,
+      "col": 36,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 14,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 79,
+      "check_col": 36,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 74,
+      "col": 52,
+      "rule": "VC_LENGTH_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 79,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 74,
+      "check_col": 52,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 53,
+      "col": 39,
+      "rule": "VC_LOOP_INVARIANT_PRESERV",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 14,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 53,
+      "check_col": 39,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 39,
+      "col": 11,
+      "rule": "VC_LENGTH_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 124,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 39,
+      "check_col": 11,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 106,
+      "col": 60,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 106,
+      "check_col": 60,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 79,
+      "col": 8,
+      "rule": "VC_POSTCONDITION",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 235,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 230,
+              "time": 6.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 79,
+      "check_col": 8,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 3,
+          "max_steps": 1,
+          "max_time": 5.99999986588955E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 58,
+      "col": 24,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 58,
+      "check_col": 24,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 78,
+      "col": 36,
+      "rule": "VC_LOOP_INVARIANT_INIT",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 78,
+      "check_col": 36,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 37,
+      "col": 30,
+      "rule": "VC_RANGE_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 37,
+      "check_col": 30,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 94,
+      "col": 84,
+      "rule": "VC_OVERFLOW_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 290,
+              "time": 9.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 94,
+      "check_col": 84,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 9.00000035762787E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 56,
+      "col": 59,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 56,
+      "check_col": 59,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 93,
+      "col": 28,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 93,
+      "check_col": 28,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 12,
+      "col": 29,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 12,
+      "check_col": 29,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 36,
+      "col": 7,
+      "rule": "VC_RANGE_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 36,
+      "check_col": 7,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 88,
+      "col": 60,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 88,
+      "check_col": 60,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 22,
+      "col": 19,
+      "rule": "VC_DIVISION_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.play",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 4
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 22,
+      "check_col": 19,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 56,
+      "col": 46,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 56,
+      "check_col": 46,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 56,
+      "col": 19,
+      "rule": "VC_LOOP_INVARIANT_INIT",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 2.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 56,
+      "check_col": 19,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 2.99999993294477E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.adb",
+      "line": 51,
+      "col": 16,
+      "rule": "VC_LOOP_VARIANT",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 36
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 33,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.adb",
+      "check_line": 51,
+      "check_col": 16,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 1,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
+        }
+      }
+    },
+    {
+      "file": "playwitharrays.ads",
+      "line": 102,
+      "col": 62,
+      "rule": "VC_INDEX_CHECK",
+      "severity": "info",
+      "entity": {
+        "name": "playWithArrays.playArrayResultInverse",
+        "sloc": [
+          {
+            "file": "playwitharrays.ads",
+            "line": 68
+          }
+        ]
+      },
+      "check_tree": [
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 5.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        },
+        {
+          "proof_attempts": {
+            "CVC4": {
+              "result": "Valid",
+              "steps": 5,
+              "time": 3.00000000000000E-02
+            }
+          },
+          "transformations": {
+          }
+        }
+      ],
+      "check_file": "playwitharrays.ads",
+      "check_line": 102,
+      "check_col": 62,
+      "how_proved": "prover",
+      "stats": {
+        "CVC4": {
+          "count": 2,
+          "max_steps": 1,
+          "max_time": 5.00000007450581E-02
         }
       }
     }
   ],
   "assumptions": [
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_POST",
+        "arg": {
+          "name": "playWithArrays.playInverse",
+          "sloc": [
+            {
+              "file": "playwitharrays.ads",
+              "line": 36
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "playWithArrays.playInverse",
+          "sloc": [
+            {
+              "file": "playwitharrays.ads",
+              "line": 36
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "playWithArrays.playInverse",
+          "sloc": [
+            {
+              "file": "playwitharrays.ads",
+              "line": 36
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_POST",
+        "arg": {
+          "name": "playWithArrays.play",
+          "sloc": [
+            {
+              "file": "playwitharrays.ads",
+              "line": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "playWithArrays.play",
+          "sloc": [
+            {
+              "file": "playwitharrays.ads",
+              "line": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_AORTE",
+        "arg": {
+          "name": "playWithArrays.play",
+          "sloc": [
+            {
+              "file": "playwitharrays.ads",
+              "line": 4
+            }
+          ]
+        }
+      }
+    },
     {
       "assumptions": [
         {
@@ -3312,81 +3891,17 @@
           ]
         }
       }
-    },
-    {
-      "assumptions": [
-      ],
-      "claim": {
-        "predicate": "CLAIM_EFFECTS",
-        "arg": {
-          "name": "playWithArrays.playInverse",
-          "sloc": [
-            {
-              "file": "playwitharrays.ads",
-              "line": 36
-            }
-          ]
-        }
-      }
-    },
-    {
-      "assumptions": [
-      ],
-      "claim": {
-        "predicate": "CLAIM_POST",
-        "arg": {
-          "name": "playWithArrays.play",
-          "sloc": [
-            {
-              "file": "playwitharrays.ads",
-              "line": 4
-            }
-          ]
-        }
-      }
-    },
-    {
-      "assumptions": [
-      ],
-      "claim": {
-        "predicate": "CLAIM_EFFECTS",
-        "arg": {
-          "name": "playWithArrays.play",
-          "sloc": [
-            {
-              "file": "playwitharrays.ads",
-              "line": 4
-            }
-          ]
-        }
-      }
-    },
-    {
-      "assumptions": [
-      ],
-      "claim": {
-        "predicate": "CLAIM_AORTE",
-        "arg": {
-          "name": "playWithArrays.play",
-          "sloc": [
-            {
-              "file": "playwitharrays.ads",
-              "line": 4
-            }
-          ]
-        }
-      }
     }
   ],
   "timings": {
     "marking": 1.11257901880890E-03,
-    "globals (basic)": 9.39825177192688E-03,
-    "globals/properties (advanced)": 1.45214935764670E-02,
-    "flow analysis": 5.11628482490778E-03,
+    "globals (basic)": 9.99651197344065E-03,
+    "globals/properties (advanced)": 1.48489139974117E-02,
+    "flow analysis": 5.63431391492486E-03,
     "codepeer results": 3.24600000567443E-06,
-    "init_why_sections": 1.66957004694268E-04,
-    "translation of standard": 2.41762096993625E-03,
-    "translation of compilation unit": 3.24233882129192E-02,
-    "proof": 2.04226231575012E+00
+    "init_why_sections": 1.73912994796410E-04,
+    "translation of standard": 2.37866397947073E-03,
+    "translation of compilation unit": 3.36240865290165E-02,
+    "proof": 4.47391271591187E+00
   }
 }
