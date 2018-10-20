@@ -38,6 +38,14 @@ package body playWithArrays with SPARK_Mode => On is
    begin
       res := Table_2;
       while Temp <= Table'Last loop
+         --controlamos la salida del bucle
+         pragma Loop_Variant (Increases => Temp + 1);
+         --le idicamos que los pares impares seran modificados.
+         --pragma Loop_Variant
+           --(for all Temp in res'Range =>
+             -- (if Temp rem 2 /= 0 then res(T_Table)));
+
+
          if Temp rem 2 /= 0 then
             res(Temp) := Table(Temp);
          end if;
