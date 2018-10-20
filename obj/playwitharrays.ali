@@ -16,17 +16,15 @@ RV NO_IMPLICIT_CONDITIONALS
 RV NO_SECONDARY_STACK
 RV NO_STANDARD_STORAGE_POOLS
 RV NO_DYNAMIC_SIZED_OBJECTS
-RV NO_IMPLEMENTATION_ATTRIBUTES
 RV NO_IMPLEMENTATION_PRAGMAS
 RV SPARK_05
 
-U playwitharrays%b	playwitharrays.adb	054468d8 NE OO PK IL
+U playwitharrays%b	playwitharrays.adb	989bf723 NE OO PK IL
 W ada%s			ada.ads			ada.ali
 Z ada.tags%s		a-tags.adb		a-tags.ali
 W ada.text_io%s		a-textio.adb		a-textio.ali
 Z interfaces%s		interfac.ads		interfac.ali
 Z system.assertions%s	s-assert.adb		s-assert.ali
-Z system.img_int%s	s-imgint.adb		s-imgint.ali
 Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
 
 U playwitharrays%s	playwitharrays.ads	4417d8c2 EE NE OO PK IL
@@ -41,13 +39,12 @@ D a-unccon.ads		20180524051738 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20180524051736 5ab55268 interfaces%s
 D i-cstrea.ads		20180524051736 e53d8b8e interfaces.c_streams%s
 D playwitharrays.ads	20181018173330 4417d8c2 playwitharrays%s
-D playwitharrays.adb	20181020174234 c94e0340 playwitharrays%b
+D playwitharrays.adb	20181020183920 54919cbb playwitharrays%b
 D system.ads		20180524051738 32a08138 system%s
 D s-assert.ads		20180524051738 cd8d2c94 system.assertions%s
 D s-crtl.ads		20180524051736 0ebbdb71 system.crtl%s
 D s-exctab.ads		20180524051738 54135002 system.exception_table%s
 D s-ficobl.ads		20180524051738 078245e4 system.file_control_block%s
-D s-imgint.ads		20180524051736 02dbe0c2 system.img_int%s
 D s-parame.ads		20180524051738 48ec542b system.parameters%s
 D s-secsta.ads		20180524051738 20bbe636 system.secondary_stack%s
 D s-soflin.ads		20180524051736 a7318a92 system.soft_links%s
@@ -61,39 +58,38 @@ X 1 ada.ads
 16K9*Ada 20e8 11|1r6 1r27
 X 6 a-textio.ads
 49K13*Text_IO 471e16 11|1w10 1r31
-263U14*Put_Line 11|45s10
 X 10 playwitharrays.ads
-1K9*playWithArrays 114l5 114e19 11|3b14 65l5 65t19
+1K9*playWithArrays 114l5 114e19 11|3b14 64l5 64t19
 2A9*T_Table(integer)<integer> 4r26 4r44 4r60 36r33 36r51 36r67 68r44 68r62
-. 68r78 11|5r26 5r44 5r60 6r13 35r33 35r51 35r67 36r13 52r44 52r62 52r78
-. 53r13 54r13
+. 68r78 11|5r26 5r44 5r60 6r13 35r33 35r51 35r67 36r13 51r44 51r62 51r78
+. 52r13 53r13
 4V13*play{2A9} 4>19 4>35 15r8 17r11 21r22 23r16 29r16 11|5b13 31l8 31t12
-. 53s24
+. 52s24
 4a19 Table{2A9} 7r15 9r8 10r8 11r8 12r8 15r28 17r30 23r33 11|5b19 6r22 6r37
 . 8r11 8r56 9r26 11r13 11r27 12r23 17r39 21r29
 4a35 Table_2{2A9} 8r8 9r23 10r22 11r21 29r33 11|5b35 8r32 8r70 9r39 17r53
 . 23r29
 21i17 J{integer} 22r17 23r28 23r39 28r15 29r28 29r41
 36V13*playInverse{2A9} 36>26 36>42 46r8 48r11 52r22 54r16 60r16 11|35b13
-. 49l8 49t19
+. 48l8 48t19
 36a26 Table{2A9} 38r15 40r8 41r8 42r8 43r8 46r35 48r37 54r40 11|35b26 36r22
 . 36r37 37r25 40r21 42r26
 36a42 Table_2{2A9} 39r8 40r23 41r22 42r21 60r40 11|35b42 39r14
 52i17 J{integer} 53r17 54r35 54r46 59r15 60r35 60r48
 68V13*playArrayResultInverse{2A9} 68>37 68>53 79r8 81r11 84r18 86r32 88r30
-. 94r28 99r20 100r34 102r32 106r30 11|52b13 63l8 63t30
+. 94r28 99r20 100r34 102r32 106r30 11|51b13 62l8 62t30
 68a37 Table{2A9} 70r15 72r8 73r8 74r8 75r8 79r46 81r48 88r65 88r71 106r65
-. 106r71 11|52b37 53r29 54r22 54r37
-68a53 Table_2{2A9} 71r8 72r23 73r22 74r21 94r63 94r71 102r66 102r74 11|52b53
-. 53r35
+. 106r71 11|51b37 52r29 53r22 53r37
+68a53 Table_2{2A9} 71r8 72r23 73r22 74r21 94r63 94r71 102r66 102r74 11|51b53
+. 52r35
 86i27 J{integer} 87r28 88r60 88r84 93r26 94r58 94r86
 100i29 J{integer} 101r30 102r62 102r89 105r28 106r60 106r84
 X 11 playwitharrays.adb
 6a7 res{10|2A9} 9r7 12m13 14r20 16r22 21m19 23m19 30r17
 16i17 J{integer} 20r19 21r23 21r35 23r23 23r37
-36a7 res{10|2A9} 39m7 42m13 45r19 47r14
-37i7 Temp{natural} 40r13 41r13 42r17 42r32 44m10 44r18 45r23
-53a7 res{10|2A9} 56r10 56r38 59r23 59r27
-54a7 def{10|2A9} 56r23 56r50 57r19 57r32 59m13 62r14
-57i14 J{integer} 58r36 59r17 59r38
+36a7 res{10|2A9} 39m7 42m13 46r14
+37i7 Temp{natural} 40r13 41r13 42r17 42r32 44m10 44r18
+52a7 res{10|2A9} 55r10 55r38 58r23 58r27
+53a7 def{10|2A9} 55r23 55r50 56r19 56r32 58m13 61r14
+56i14 J{integer} 57r36 58r17 58r38
 

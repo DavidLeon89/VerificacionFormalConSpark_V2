@@ -38,11 +38,10 @@ package body playWithArrays with SPARK_Mode => On is
    begin
       res := Table_2;
       while Temp <= Table'Last loop
-         if Temp rem 2 = 0 then
+         if Temp rem 2 /= 0 then
             res(Temp) := Table(Temp);
          end if;
          Temp := Temp + 1;
-         Put_Line(res(Temp)'Img);
       end loop;
       return res;
 
